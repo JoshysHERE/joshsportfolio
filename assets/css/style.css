@@ -16,13 +16,13 @@ header {
 }
 
 .card {
-text-align: right;
-box-shadow: 0 1px 10px 0;
-padding: 2px 3px;}
+    text-align: right;
+    box-shadow: 0 1px 10px 0;
+    padding: 2px 3px;}
 
 h1 {
-color: white;
-background-color: darkgreen;
+    color: white;
+    background-color: darkgreen;
 
 } 
 
