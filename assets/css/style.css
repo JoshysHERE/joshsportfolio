@@ -33,10 +33,10 @@ header {
 }   
 
 .header { 
-height: 50px;
-background-color: black;
-font-size: 15px;
-color: white;
+    height: 50px;
+    background-color: black;
+    font-size: 15px;
+    color: white;
 
 
 }
@@ -57,11 +57,13 @@ marquee {
 }
 
 nav button {
+    text-align: center;
     width: 230px;
     height: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     background-color: darkgreen
+
     
     
     
