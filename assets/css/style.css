@@ -17,18 +17,30 @@ header {
 }
 
 .card {
+    position: relative;
     box-shadow: 0 2px 10px 0;
     height: 150px;
     width: 15%;
-    background-color: darkgray;
+    background-color: white;
+    color: black;
     padding: 5px 3px;
     border-radius: 16px;
     text-align: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    border: 3px black solid;
+    font-size: 10px;
+}   
+
+.header { 
+height: 50px;
+background-color: black;
+font-size: 15px;
+color: white;
+
+
 }
-    
-    
+  
 
 h1 {
     color: white;
@@ -36,13 +48,21 @@ h1 {
 
 } 
 
+marquee {
+    padding: 5px 3px; 
+    display: flex;
+    border: 3px black solid;
+    font-size: 15px;
+
+}
+
 nav button {
-    
     width: 230px;
     height: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     background-color: darkgreen
+    
     
     
 
