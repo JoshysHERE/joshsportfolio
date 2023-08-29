@@ -56,15 +56,14 @@ marquee {
 
 }
 
-nav button {
+nav button {  
     text-align: center;
-    width: 230px;
+    width: 240px;
     height: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     background-color: darkgreen
-
-    
+ 
     
     
 
