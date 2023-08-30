@@ -1,6 +1,6 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-size: 2000px ;
+    background-size: 900px ;
     display: flex;
     flex-direction: column;
     line-height: 1.5;
@@ -85,7 +85,6 @@ button.margin-right {
   background-color: transparent;
   width: 400px;
   height: 500px;
-  border: 1px solid rgb(255, 255, 255);
   perspective: 1000px;
 }
 
