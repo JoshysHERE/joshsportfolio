@@ -168,14 +168,14 @@ footer {
 /*Footer buttons live here*/
 footer button {
 height: 75px;
-width: 1000px;
+width: 650px;
 font-size: 18px;
 display: flex;
 justify-content: center;
 text-align: center;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 color: white;
-background-color: darkgreen
+background-color: darkgreen;
 }
 
 .flex-parent {
