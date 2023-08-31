@@ -1,13 +1,12 @@
 # joshsportfolio
 
 ## Description
-This is a website dedicated to being my professional portfolio. This website will be used to showcase all of my work from my bootcamp at UTSA and even after my course.
+This is my professional portfolio. Here you will find links to all of the projects i have worked on and will work on throughout the bootcamp. This website will be used to showcase all of my work. I plan to continue to work on this portfolio as i learn new skills from the bootcamp.
 ## Table of Contents 
 n/a
 ## Installation
 No install needed
 ## Usage
-This Website will be used to showcase any and all projects worked on by me!
 ![snapshot for portfolio](https://github.com/JoshysHERE/joshsportfolio/assets/141682993/b7c14810-d689-4339-aa26-367207a2409d)
 ## License
 n/a
