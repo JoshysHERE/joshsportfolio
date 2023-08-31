@@ -53,6 +53,7 @@ a{
   }
 
 nav button {
+    font-size: 18px;
     display: flex;
     justify-content: center;
     text-align: center;
@@ -133,16 +134,32 @@ button.margin-right {
 .aside {
   text-align: center;
   display: list-item;
-  color: black;
+  color: white;
+  height: 400%;
+}
 
+style div {
+    margin: 10px;
+    background: white;
+    height: 100px;
+}
+
+ p#floated {
+    background: darkgreen;
+    margin: -400px 50px;
+    padding: 50px;
+    border: 5px solid black;
+    float: left;
 }
 
 footer {
   display: block;
   flex-direction:column;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: large;    
+  font-size: 20px;    
   background-color:darkgreen;
   color:white;
   text-align: center;
+  
 }
+
