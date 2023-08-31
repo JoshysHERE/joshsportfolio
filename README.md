@@ -20,6 +20,6 @@ The buttons at the bottom of the page do not work yet. This is by design.
 ## How to Contribute
 n/a
 ## Tests
-# GitHub Pages Link: https://joshyshere.github.io/joshsportfolio/
+### GitHub Pages Link: https://joshyshere.github.io/joshsportfolio/
 
-# Github Repo Link:  https://github.com/JoshysHERE/joshsportfolio/
+### Github Repo Link:  https://github.com/JoshysHERE/joshsportfolio/
