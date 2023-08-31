@@ -4,7 +4,7 @@ body {
     display: flex;
     flex-direction: column;
     line-height: 1.5;
-}
+    }
 
 header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -50,8 +50,7 @@ a{
     display: flex;
     border: 3px black solid;
     font-size: 15px;
-
-}
+  }
 
 nav button {
     display: flex;
@@ -131,14 +130,22 @@ button.margin-right {
   color: white;
 }
 
-footer {
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-display: block;
-justify-content: space-between;
-padding: 1%;
-font-size: large;    
-background-color:darkgreen;
-color:white;
-text-align: center;
+aside {
+  position:relative;
+  top: 0px;
+  bottom: 0px;
+  right: 500px;
+  display: list-item;
+  color: black;
 
+}
+
+footer {
+  display: block;
+  flex-direction:column;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;    
+  background-color:darkgreen;
+  color:white;
+  text-align: center;
 }
