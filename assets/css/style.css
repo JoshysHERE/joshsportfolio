@@ -56,8 +56,8 @@ nav button {
     display: flex;
     justify-content: center;
     text-align: center;
-    width: 240px;
-    height: 40px;
+    width: 350px;
+    height: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     background-color: darkgreen
@@ -85,8 +85,8 @@ button.margin-right {
 .flip-card {
   margin:0 auto;
   background-color: transparent;
-  width: 400px;
-  height: 500px;
+  width: 500px;
+  height: 600px;
   perspective: 1000px;
 }
 
@@ -126,15 +126,12 @@ button.margin-right {
 .card h4 { 
   height: 30px;
   background-color: black;
-  font-size: 15px;
+  font-size: 100px;
   color: white;
 }
 
-aside {
-  position:relative;
-  top: 0px;
-  bottom: 0px;
-  right: 500px;
+.aside {
+  text-align: center;
   display: list-item;
   color: black;
 
