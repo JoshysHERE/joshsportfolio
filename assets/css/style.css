@@ -131,10 +131,14 @@ button.margin-right {
   color: white;
 }
 
-.aside {
-  display: list-item;
-  color: white;
-  height: 400%;
+aside {
+  display: block;
+  flex-direction:column;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;    
+  background-color:darkgreen;
+  color:white;
+  text-align: center;
 }
 
 style div {
@@ -146,7 +150,7 @@ style div {
  p#floated {
     background: darkgreen;
     margin: -400px 50px;
-    padding: 125px;
+    padding: 100px;
     border: 5px solid black;
     float: left;
     color: white;
