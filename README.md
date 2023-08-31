@@ -5,7 +5,7 @@ This is a website dedicated to being my professional portfolio. This website wil
 ## Table of Contents 
 n/a
 ## Installation
-n/a
+No install needed
 ## Usage
 This Website will be used to showcase any and all projects worked on by me!
 ## Credits
@@ -16,7 +16,8 @@ n/a
 n/a
 ## Features
 There are buttons that will link you right to all of my work on Github.
-The buttons at the bottom of the page do not work yet. This is by design. 
+Flip the card in the center of the page to see about me.
+The buttons at the bottom of the page will both allow you to send me an email to a fake email i made up.
 ## How to Contribute
 n/a
 ## Tests
