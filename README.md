@@ -8,8 +8,7 @@ n/a
 No install needed
 ## Usage
 #This Website will be used to showcase any and all projects worked on by me!
-![snapshot for portfolio](https://github.com/JoshysHERE/joshsportfolio/assets/141682993/b7c14810-d689-4339-aa26-367207a2409d)## Credits
-The Philadelphia Eagles Free Image Website[For background image]
+![snapshot for portfolio](https://github.com/JoshysHERE/joshsportfolio/assets/141682993/b7c14810-d689-4339-aa26-367207a2409d)
 ## License
 n/a
 ## Badges
