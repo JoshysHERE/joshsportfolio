@@ -7,7 +7,7 @@ n/a
 ## Installation
 No install needed
 ## Usage
-#This Website will be used to showcase any and all projects worked on by me!
+This Website will be used to showcase any and all projects worked on by me!
 ![snapshot for portfolio](https://github.com/JoshysHERE/joshsportfolio/assets/141682993/b7c14810-d689-4339-aa26-367207a2409d)
 ## License
 n/a
