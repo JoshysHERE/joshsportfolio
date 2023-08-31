@@ -51,7 +51,7 @@ a{
     border: 3px black solid;
     font-size: 15px;
   }
-
+/*Top row of buttons lives here*/
 nav button {
     font-size: 18px;
     display: flex;
@@ -75,7 +75,7 @@ nav button {
 button.margin-right {
         margin-right: 20px;
 }
-
+/*This is the text above the card*/
  article {
   text-align: center;
   color: darkgreen;
@@ -129,7 +129,7 @@ button.margin-right {
   font-size: 100px;
   color: white;
 }
-
+/*This is where the coming soon section for projects goes*/
 aside {
   display: block;
   flex-direction:column;
@@ -165,7 +165,7 @@ footer {
   color:white;
   text-align: center;
 }
-
+/*Footer buttons live here*/
 footer button {
 height: 75px;
 width: 1000px;
