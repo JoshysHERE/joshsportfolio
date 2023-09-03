@@ -72,7 +72,7 @@ a{
     padding: 5px 3px; 
     display: flex;
     border: 3px black solid;
-    font-size: 15px;
+    font-size: 25px;
   }
 /*Top row of buttons lives here*/
 nav button {
@@ -87,6 +87,10 @@ nav button {
     background-color: darkgreen
   
 }
+
+img
+
+
  
 .flex-parent {
         display: flex;
