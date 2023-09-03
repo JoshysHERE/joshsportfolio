@@ -10,12 +10,35 @@ header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: block;
     justify-content: space-between;
-    padding: 1%;
+    padding: 2%;
     font-size: large;    
     background-color:darkgreen;
     color:white;
     text-align: center;
 }
+
+section img {
+  display: flex;
+  justify-content: center;
+  height: 150px;
+  width: 210px;
+  background-color: white;
+
+}
+
+.flex-parent {
+  display: flex;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+button.margin-right {
+  margin-right: 20px;
+
+}
+
 
 h1 {
     color: white;
@@ -77,10 +100,17 @@ button.margin-right {
         margin-right: 20px;
 }
 /*This is the text above the card*/
+
  article {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: block;
+  justify-content: space-between;
+  padding: 2%;
+  font-size: large;    
+  background-color:darkgreen;
+  color:white;
   text-align: center;
-  color: darkgreen;
-  font-size: x-large;
+
  } 
 /* Flip Card lives here*/
 .flip-card {
