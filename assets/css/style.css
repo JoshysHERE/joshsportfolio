@@ -66,7 +66,7 @@ a{
       height: 10px;
       float:left; 
 }
-
+/* Marquee with a quote*/
   marquee {
     padding: 5px 0px; 
     display: flex;
@@ -92,7 +92,7 @@ nav button {
     
 }
 .flex-parent {
-        display: flex;
+        display: flex;       
         
 }
       
@@ -103,8 +103,8 @@ nav button {
 button.margin-right {
         margin-right: 20px;
 }
-/*This is the text above the card*/
 
+/*This is where all the pictures for the projects i have worked on live*/
 div img {
   display: flex;
   justify-content: center;
@@ -124,7 +124,7 @@ div img {
 button.margin-right {
   margin-right: 20px;
 }
-
+/*This is the text above the card*/
  article {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   display: block;
@@ -230,7 +230,7 @@ footer {
   width: 200px;
   height: 50px;
   border: 2px solid black;
-  box-shadow: 5px 5px gray 
+  
 }
 
 .flex-parent {
