@@ -204,7 +204,7 @@ style div {
     height: 100px;
 }
 
- p#floated {
+ a#floated {
   display: flex;
   justify-content: center;
   text-align: center;
@@ -217,9 +217,10 @@ style div {
   float: left;
   color: white;
   text-align: center;
+  cursor: pointer;
 }
 
-p#floated2 {
+a#floated2 {
   display: flex;
   justify-content: center;
   text-align: center;
@@ -232,9 +233,10 @@ p#floated2 {
   float: left;
   color: white;
   text-align: center;
+  cursor: pointer;
 }
 
-p#floated3 {
+a#floated3 {
   display: flex;
   justify-content: center;
   text-align: center;
@@ -247,6 +249,7 @@ p#floated3 {
   float: left;
   color: white;
   text-align: center;
+  cursor: pointer;
 } 
 
 footer {
